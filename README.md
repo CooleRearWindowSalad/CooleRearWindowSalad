@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **CooleRearWindowSalad/CooleRearWindowSalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Dexters1717 on discord
 - 😄 Pronouns: chair/chairs/chairself (the origin from this pronouns comes from an inside joke with my friend on discord)
 - ⚡ Fun fact: I like fries lol
--->

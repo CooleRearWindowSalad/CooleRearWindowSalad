@@ -1,6 +1,6 @@
 # 👋 Hey, I'm CooleRearWindowSalad
 
-Welcome to my GitHub profile! I’m a Computer Science student who loves coding, experimenting, and sometimes breaking things.
+Welcome to my GitHub profile! I’m a Computer Science student who likes learning to code, experimenting, and sometimes breaking things.
 
 ---
 

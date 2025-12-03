@@ -49,9 +49,12 @@ Welcome to my GitHub profile! I’m a Computer Science student who likes learnin
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coolerearwindowsalad&layout=compact&theme=radical)
 
-![CooleRearWindowSalad's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolerearwindowsalad&show_icons=true&theme=radical)
+![Top Language](https://img.shields.io/github/languages/top/CooleRearWindowSalad?color=blue&label=Top%20Language)
+![Total Repositories](https://img.shields.io/github/repo-count/CooleRearWindowSalad?color=green)
+![Followers](https://img.shields.io/github/followers/CooleRearWindowSalad?color=yellow&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/CooleRearWindowSalad?color=orange&label=Stars)
+
 
 
 ---

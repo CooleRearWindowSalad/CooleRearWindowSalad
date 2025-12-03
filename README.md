@@ -49,10 +49,10 @@ Welcome to my GitHub profile! I’m a Computer Science student who likes learnin
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CooleRearWindowSalad&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coolerearwindowsalad&layout=compact&theme=radical)
 
+![CooleRearWindowSalad's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolerearwindowsalad&show_icons=true&theme=radical)
 
-![CooleRearWindowSalad's GitHub stats](https://github-readme-stats.vercel.app/api?username=CooleRearWindowSalad&show_icons=true&theme=radical)
 
 ---
 

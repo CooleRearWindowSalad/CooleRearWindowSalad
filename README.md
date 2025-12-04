@@ -50,10 +50,13 @@ Welcome to my GitHub profile! I’m a Computer Science student who likes learnin
 
 ## 📊 GitHub Stats
 
-![Top Language](https://img.shields.io/github/languages/top/CooleRearWindowSalad?color=blue&label=Top%20Language)
-![Total Repositories](https://img.shields.io/github/repo-count/CooleRearWindowSalad?color=green)
-![Followers](https://img.shields.io/github/followers/CooleRearWindowSalad?color=yellow&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/CooleRearWindowSalad?color=orange&label=Stars)
+<div style="display: flex; gap: 10px;">
+  <!-- GitHub Overview -->
+  <img src="https://raw.githubusercontent.com/CooleRearWindowSalad/github-stats-transparent/output/generated/overview.svg" alt="GitHub Statistics" width="360" />
+
+  <!-- Most Used Languages -->
+  <img src="https://raw.githubusercontent.com/CooleRearWindowSalad/github-stats-transparent/output/generated/languages.svg" alt="Most used languages" width="360" />
+</div>
 
 
 

@@ -58,6 +58,11 @@ Welcome to my GitHub profile! I’m a Computer Science student who likes learnin
   <img src="https://raw.githubusercontent.com/CooleRearWindowSalad/github-stats-transparent/output/generated/languages.svg" alt="Most used languages" width="360" />
 </div>
 
+---
+
+## 😂 Random Developer Joke
+
+![Joke](https://readme-jokes.vercel.app/api)
 
 
 ---

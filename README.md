@@ -1,4 +1,4 @@
-# 👋 Hey, I'm CooleRearWindowSalad
+# Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm CooleRearWindowSalad
 
 Welcome to my GitHub profile! I’m a Computer Science student who likes learning to code, experimenting, and sometimes breaking things.
 
